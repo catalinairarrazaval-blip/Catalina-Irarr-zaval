@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Necesidades de Formación Docente",
+  "description": "Una aplicación para analizar las necesidades de formación docente y recomendar cursos adecuados en cuatro dimensiones clave: convivencia e inclusión, gestión de aprendizajes, didáctica específica y liderazgo escolar.",
+  "requestFramePermissions": []
+}
